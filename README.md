@@ -13,8 +13,11 @@ Key Topics Covered
 6) Real-World services implemented on the web
 
 ## Instructions for navigating the repo
+
 README.md (this file): contains overview of research
+
 research folder: Contains all research files
+
 article folder: Contains written article in markdown format
 
 Author: Nathan Kaduru
