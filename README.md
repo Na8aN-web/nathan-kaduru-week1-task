@@ -18,5 +18,7 @@ research folder: Contains all research files
 article folder: Contains written article in markdown format
 
 Author: Nathan Kaduru
+
 Publication Date: January 18, 2025
+
 Published Article: https://himwhowrote.hashnode.dev/how-the-web-works-web-protocols-and-how-popular-services-are-implemented-on-the-web
